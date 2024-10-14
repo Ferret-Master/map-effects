@@ -1,12 +1,12 @@
 {
 
 	"build": "120799",
-	"context": "client",
+	"context": "server",
 	"date": "2024-10-14",
 	"display_name": "Map Effects Server",
 	"description": "Allows effects to be displayed on the maps, framework for other mods",
 	"forum": "https://github.com/Ferret-Master/map-effects/discussions",
-	"identifier": "com.pa.ferretmaster.map-effects-client",
+	"identifier": "com.pa.ferretmaster.map-effects-server",
 	"signature": "not yet implemented",
 	"version": "1.0",
 	"icon": "",
