@@ -4,7 +4,7 @@
 	"context": "server",
 	"date": "2024-10-14",
 	"display_name": "Map Effects Server",
-	"description": "Allows effects to be displayed on the maps, framework for other mods",
+	"description": "Allows effects to be displayed on the maps, framework for other mods. used by hosts wanting effects for others",
 	"forum": "https://github.com/Ferret-Master/map-effects/discussions",
 	"identifier": "com.pa.ferretmaster.map-effects-server",
 	"signature": "not yet implemented",
@@ -20,6 +20,8 @@
 	  },
 	"category":
 	[
-		"ui"
+		"ui",
+		"titans",
+		"classic"
 	]
 }
